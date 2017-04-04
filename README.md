@@ -4,7 +4,7 @@
 
 ## プラグイン
 
-- [google_map.rb](/plugin/google_map_rb.md)
+- [google_map.rb](/plugin/google_map.rb.md)
 
 ## スタイル
 
