@@ -8,4 +8,4 @@
 
 ## スタイル
 
-- [hikiスタイル](/style/hiki)
+- [hikiスタイル](/style/hiki.md)
